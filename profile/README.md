@@ -1,8 +1,8 @@
 <div align="center">
 
-# XjuSelab
+# xjuIcthub
 
-### 新疆大学 · 软件开发实验室
+### 新疆大学 · ICT&软件开发实验室
 
 <sub>Software Engineering Lab · Xinjiang University</sub>
 
