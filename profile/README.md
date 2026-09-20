@@ -1,10 +1,10 @@
 <div align="center">
 
-# xjuIcthub
+# xju-arlab
 
-### 新疆大学 · ICT&软件开发实验室
+### 新疆大学 · 算法与科研实验室
 
-<sub>Software Engineering Lab · Xinjiang University</sub>
+<sub>Algorithm & Research Lab · Xinjiang University</sub>
 
 > 以工程的严谨沉淀研究，用开源的方式连接下一届。<br/>
 > _Distilling research with engineering rigor — open by default._
